@@ -1,1 +1,2 @@
-"que vida miseravel"
+"que vida miseravel."
+teste sozinho.
